@@ -15,7 +15,7 @@ role: Associate Professor of Instrument Science and Engineering
 # Organizations/Affiliations
 organizations:
   - name: Southeast University
-    url: ''
+    url: 'https://ins.seu.edu.cn/'
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include medical robotics, virtual reality, human-computer interaction and AIGC.
@@ -30,10 +30,10 @@ education:
   courses:
     - course: PhD in Computer Software and Theory
       institution: Peking University
-      year: 2007~2012
+      year: 2012
     - course: BSc in Computer Science
       institution:  Fudan University
-      year: 2003~2007
+      year: 2007
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -67,7 +67,7 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
+  - Principal Investigators
 ---
 
 Lifeng Zhu is a associate professor of instrument science and engineering at the Institute of Robot Sensing and Control Technology. His research interests include medical robotics, virtual reality, human-computer interaction and AIGC. He has presided over one National Natural Science Foundation of China, one Natural Science Foundation of Jiangsu Province, and one sub-topic of the National Key Research and Development Program and published more than 30 academic papers, including more than 20 SCI papers, and more than 100 times of SCI citations for a single paper. He was awarded the first prize of Science and Technology Progress by the Ministry of Education, and the only best paper award in the 21st Asian Graphics Conference.
