@@ -8,14 +8,14 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
+        iZhu
+        Lab
       image:
         filename: welcome.jpg
       text: |
         <br>
         
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        The **iZhu-Lab** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2015.
   
   - block: collection
     content:
