@@ -5,7 +5,7 @@ image:
   focal_point: 'top'
 ---
 
-Congratulations to Jian Yang and Monica Hall for winning the Best Paper Award at the 2020 Conference on Wowchemy for their paper “Learning Wowchemy”.
+Congratulations to Yusheng Luo and Lifeng Zhu for their work at the 2024 IEEE Conference Virtual Reality and 3D User Interfaces (VR) for their oral paper “Force-regulated Elastic Linear Objects Tracking for Virtual and Augmented Reality”.
 
 <!--more-->
 
